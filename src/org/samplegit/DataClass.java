@@ -11,7 +11,7 @@ public class DataClass {
 
 		}
 		private void empphone() {
-			System.out.println("123456789");
+			System.out.println("1234567890");
 
 		}
 		public static void main(String[] args) {
